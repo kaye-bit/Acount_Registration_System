@@ -1,2 +1,2 @@
-# Acount_Registration_System
+# Account_Registration_System
 Final Project
